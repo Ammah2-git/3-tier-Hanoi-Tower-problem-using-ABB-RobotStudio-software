@@ -24,9 +24,11 @@ on top of another stack or on an empty
 section.
 3. No block may be placed on top of a block 
 that is smaller than it.
+
 By programming the ABB RobotStudio® software 
 to move the blocks using planned trajectory motion, 
 this problem can be solved. 
+
 In this project we will be able to understand 
 the concept of Hanoi Tower and solve it using ABB 
 Robot, able to program and simulate an industrial 
