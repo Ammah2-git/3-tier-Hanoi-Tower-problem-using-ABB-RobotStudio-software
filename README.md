@@ -108,11 +108,5 @@ The operation was rejected by the controller safety access restriction mechanism
 
 ---
 
-## 📎 Appendix
-
-📁 `SimulationFiles/` - Contains RobotStudio `.rspag` file  
-📁 `RAPID/` - Contains `.mod` file with final working code  
-📽️ [Watch our final simulation](https://youtu.be/43ik-pjxENo)
-
----
+More information can be seen on our Report attached.
 
